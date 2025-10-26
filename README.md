@@ -35,8 +35,8 @@ A colorful, cross-platform CLI tool that evaluates password strength and generat
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/password-checker-generator.git
-cd password-checker-generator
+git clone https://github.com/ShaneYLad/Password_Strength_And_Checker.git
+cd Password_Strength_And_Checker
 ```
 
 ### 2. Run the script
