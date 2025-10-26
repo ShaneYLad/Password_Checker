@@ -35,8 +35,8 @@ A colorful, cross-platform CLI tool that evaluates password strength and generat
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/ShaneYLad/Password_Strength_And_Checker.git
-cd Password_Strength_And_Checker
+git clone https://github.com/ShaneYLad/Password_Checker.git
+cd Password_Checker
 ```
 
 ### 2. Run the script
@@ -44,7 +44,12 @@ cd Password_Strength_And_Checker
 ```python
 python main.py
 ```
+> ⚠️ Requires Python 3.10 or higher
+
 ## 🧑‍💻 Author
 **Shane Green (ShaneYLad)**  
 Email: [shanzoig@proton.me](mailto:shanzoig@proton.me)   
 Signal: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk)  
+
+## 📜 License
+MIT — free to use, modify, and share.
